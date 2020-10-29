@@ -1,0 +1,4 @@
+#Thu Oct 29 06:55:51 PDT 2020
+base.0=C\:\\Users\\hp\\Desktop\\New folder\\NBRGestion\\platforms\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
